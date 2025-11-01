@@ -74,7 +74,7 @@ By perturbing parts of an image and observing changes in prediction confidence, 
 
 | Input Image                        | Positive Regions (Support Prediction) |  Negative Regions (Oppose Prediction) |
 | :--------------------------------- | :-----------------------------------: | :-----------------------------------: |
-| ![Original](images/lime_input.png) | ![Positive](images/lime_positive.png) | ![Negative](images/lime_negative.png) |
+| Rhodesian Ridgeback | ![Positive](images/LIME_Positive.png) | ![Negative](images/LIME_Negative.png) |
 
 **Interpretation:**
 🟢 *Green regions* → increase confidence in predicted class.
